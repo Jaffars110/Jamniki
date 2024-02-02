@@ -1,0 +1,97 @@
+
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>Jamniki</title>
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<style>
+		.container {
+			display: flex;
+			flex-direction: row;
+			align-items: center;
+			justify-content: space-between;
+		}
+		.description {
+			width: 60%;
+			margin-right: 20px;
+		}
+		.image {
+			width: 30%;
+		}
+	</style>
+</head>
+<body>
+	
+   
+
+      
+     
+
+
+
+<header>
+		<h1>Jamniki</h1>
+	</header>
+	<main>
+		<div class="container">
+			<div class="description">
+				<section>
+					<h2>Opis rasy</h2>
+					<p>Jamnik to rasa psów, która cieszy się dużą popularnością w Polsce i na świecie. Jamniki występują w trzech odmianach wielkościowych: króliczej, miniaturowej i standardowej. Charakteryzują się długim, wąskim tułowiem i krótkimi kończynami. Są to psy inteligentne, odważne i lojalne, ale jednocześnie wymagające w pielęgnacji i wychowaniu.</p>
+				</section>
+				<section>
+					<h2>Wymiary i waga</h2>
+					<table border="1">
+						
+							<tr>
+								<td><b>Odmiana</b></td><td><b>Wysokość w kłębie</b></td><td><b>Waga</b>                      </td>
+								
+						       </tr>
+                                                       <tr>
+                          
+						                <td>Króliczy</td>
+								<td>27-32 cm</td>
+								<td>Do 3 kg</td>
+							</tr>
+							<tr>
+								<td>Miniaturowy</td>
+								<td>32-37 cm</td>
+								<td>Do 6 kg</td>
+							</tr>
+							<tr>
+								<td>Standardowy</td>
+								<td>37-47 cm</td>
+								<td>Do 9 kg</td>
+							</tr>
+						</table>
+
+                                         <img src="Jamnik-w-kwiatach.jpg" 
+					
+			                   <b> Wincyj information o jamnikach znajdziesz na stronie </b><a href=https://pl.wikipedia.org/wiki/Jamnik>Wikipedia Jamniki</a>
+			
+
+
+
+        
+              <b>     
+ Poniżej zdjęcia słodkich Piesków-Jamników </b>
+
+
+
+			<div class="image">
+				<img src="Jamniki11.jpg" alt="Jamniki11">
+	<img src="jamnik-psiedszkole.png"  alt="jamnik-psiedszkole">		
+
+
+
+
+
+</body>
+
+
+</html>
